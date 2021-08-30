@@ -1,0 +1,171 @@
+label|pattern
+PNEG|sin aumento
+PNEG|ningún cambio
+PNEG|sin cambios sospechosos
+PNEG|ningún cambio significativo
+PNEG|sin cambio de intervalo
+PNEG|sin cambio definitivo
+PNEG|no se extiende
+PNEG|no causa
+PNEG|no drena
+PNEG|cambio de intervalo no significativo
+PNEG|no estoy seguro si
+PNEG|no estoy seguro de si
+PNEG|gram negativo
+PNEG|sin dificultad
+PNEG|no necesariamente
+PNEG|no solo
+PNEG|duda
+PNEG|tengo dudas
+PNEG|dudo
+NEG|ausencia de
+NEG|no pueden ver
+NEG|no poder
+NEG|revisado para
+NEG|rechazado
+NEG|declina
+NEG|negado
+NEG|niega
+NEG|negando
+NEG|evaluar por
+NEG|no revela
+NEG|libre de
+NEG|negativo para
+NEG|nunca desarrollado
+NEG|nunca tuve
+NEG|no
+NEG|no anormal
+NEG|ninguna causa de
+NEG|sin quejas de
+NEG|sin evidencia
+NEG|ninguna nueva evidencia
+NEG|ninguna otra evidencia
+NEG|ninguna evidencia para sugerir
+NEG|sin hallazgos de
+NEG|no hay hallazgos para indicar
+NEG|no hay evidencia mamográfica de
+NEG|nada nuevo
+NEG|ninguna evidencia radiográfica de
+NEG|ninguna señal de
+NEG|no significativo
+NEG|sin signos de
+NEG|ninguna sugerencia de
+NEG|no sospechoso
+NEG|no aparece
+NEG|no apreciar
+NEG|no asociado con
+NEG|no me quejo de
+NEG|no demostrar
+NEG|no exhibir
+NEG|no sentir
+NEG|no tenía
+NEG|no tengo
+NEG|no saber de
+NEG|no se sabe que tiene
+NEG|no revelar
+NEG|no ver
+NEG|no ser
+NEG|paciente no era
+NEG|más bien que
+NEG|resuelto
+NEG|hacer una prueba por
+NEG|excluir
+NEG|nada especial para
+NEG|con ningún
+NEG|sin ninguna evidencia de
+NEG|sin evidencia
+NEG|sin indicación de
+NEG|sin signo de
+NEG|sin
+NEG|descartar para
+NEG|descartarlo por
+NEG|descartarla por
+NEG|descartar al paciente por
+NEG|descartarlo
+NEG|descartarla
+NEG|descartar
+NEG|r / o
+NEG|ro
+NEG|descartar al paciente
+NEG|excluye
+NEG|lo descarta
+NEG|la excluye
+NEG|expulsó al paciente por
+NEG|gobierna al paciente
+NEG|lo descartó contra
+NEG|la descartó contra
+NEG|lo descartó
+NEG|la descartó
+NEG|descartado contra
+NEG|descartó al paciente contra
+NEG|descartaron para
+NEG|descartaron contra
+NEG|descartó
+NEG|lo descartaron por
+NEG|lo descartaron en contra
+NEG|lo descartaron
+NEG|la descartaron por
+NEG|lo descartó contra
+NEG|lo descartó
+NEG|descartaron al paciente contra
+NEG|descartaron al paciente por
+NEG|descartó al paciente
+NEG|puede descartar
+NEG|puede descartar contra
+NEG|puede descartarlo por
+NEG|puede descartarlo en contra
+NEG|puede descartarlo
+NEG|puede descartarla por
+NEG|puede descartarla contra
+NEG|puede descartarla
+NEG|puede descartar al paciente por
+NEG|puede descartar al paciente contra
+NEG|puede descartar al paciente
+NEG|adecuado para descartar
+NEG|adecuado para descartar
+NEG|adecuado para descartarlo por
+NEG|adecuado para descartarlo
+NEG|adecuado para descartarla por
+NEG|adecuado para descartarla
+NEG|adecuado para descartar al paciente por
+NEG|adecuado para descartar al paciente contra
+NEG|adecuado para descartar al paciente
+NEG|suficiente para descartar
+NEG|suficiente para descartarlo por
+NEG|suficiente para descartarlo en contra
+NEG|suficiente para descartarlo
+NEG|suficiente para descartarla por
+NEG|suficiente para descartarla en contra
+NEG|suficiente para descartarla
+NEG|suficiente para descartar al paciente por
+NEG|suficiente para descartar al paciente contra
+NEG|suficiente para descartar al paciente
+RNEG|debe descartarse para
+RNEG|debe ser descartado para
+RNEG|puede ser descartado para
+RNEG|puede ser descartado para
+RNEG|podría ser descartado por
+RNEG|será descartado por
+RNEG|se puede descartar por
+RNEG|debe descartarse para
+RNEG|debe ser descartado por
+RNEG|ser descartado por
+RNEG|improbable
+RNEG|libre
+RNEG|fue descartado
+RNEG|está descartado
+RNEG|están descartadas
+RNEG|han sido descartadas
+RNEG|ha sido descartado
+RNEG|siendo descartado
+RNEG|debe descartarse
+RNEG|debe ser descartado
+RNEG|puede ser descartado
+RNEG|podría descartarse
+RNEG|podría ser descartado
+RNEG|será descartado
+RNEG|se puede descartar
+RNEG|debe descartarse
+RNEG|debe ser descartado
+RNEG|ser descartado
+RNEG|se descarta
