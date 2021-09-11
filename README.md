@@ -7,7 +7,7 @@ I coded these scripts as an Undergraduate Research Assistant for UCLA Paisa Proj
 
 Although this is not a complete project (some files were not my intellectual property, and are on a secure server to which I no longer have access), I hope that some of my scripts might prove useful or inspirational to others working on negation identification, particularly in the context of electronic health records. My notebooks, results, etc. are not in this github repo as they rely on numerous other scripts that aren't my intellectual property.
 
-_Quick overview of my scripts:_
+## _Quick overview of my scripts:_
 
 In Helper_Funcs.py you will find a function which can extract disorder (DISO) patterns from medical texts that have been labeled via spaCy's entity recognition, or from annotated texts (I used [NUBes Corpus Spanish Medical Texts ](https://github.com/Vicomtech/NUBes-negation-uncertainty-biomedical-corpus/tree/master/NUBes)for all of my work and this worked for those).
 
